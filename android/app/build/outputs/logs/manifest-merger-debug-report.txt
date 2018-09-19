@@ -1,0 +1,153 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/206e85e6c6afeef8ed7312d8a863e4e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/295b30bd17fcb7dd26a56c939dbf9fa2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86ab14c6b1a656901225a1784e85768e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3616e961e23603056cc2235f681dc7d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7a6e5c640464d44e081df0a6fc28f993/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/42ab4f1b542d7bdb4b4200c8f67822ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a603b88f93f84505cb129d9311f1e38e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c308e073d15666f3efbcd7ded0171f08/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/623df8082ba9af9858f90f6c73ef71b1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/44f568a6ff71faba690e87028a51b9fb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/26f09c9de8b6d8d9ce4516ddf9691254/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/db5238d1b37ae476575f9ddbef6377e3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766af240d9313457f742df28ed9cc5be/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/9c9d48abb51beb8bd003836e19602605/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0c2ba15099c0fa5ec085c4be19e0fb17/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da440cd992d1468d31622796ec4b0b1a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/04a93830f0e9559e139db2c192ab3ecb/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bee90094e93b79757ec6c1d32027b361/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/90236821f531a4ad3a77f8d9d89ff2fd/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:2:5-32
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766af240d9313457f742df28ed9cc5be/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766af240d9313457f742df28ed9cc5be/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/9c9d48abb51beb8bd003836e19602605/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/9c9d48abb51beb8bd003836e19602605/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.accessibility.MainActivity
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/58aba9c96cecb1253b5a9450fe2287e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/206e85e6c6afeef8ed7312d8a863e4e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/206e85e6c6afeef8ed7312d8a863e4e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/295b30bd17fcb7dd26a56c939dbf9fa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/295b30bd17fcb7dd26a56c939dbf9fa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86ab14c6b1a656901225a1784e85768e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/86ab14c6b1a656901225a1784e85768e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3616e961e23603056cc2235f681dc7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e3616e961e23603056cc2235f681dc7d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7a6e5c640464d44e081df0a6fc28f993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/7a6e5c640464d44e081df0a6fc28f993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/42ab4f1b542d7bdb4b4200c8f67822ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/42ab4f1b542d7bdb4b4200c8f67822ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a603b88f93f84505cb129d9311f1e38e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/a603b88f93f84505cb129d9311f1e38e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c308e073d15666f3efbcd7ded0171f08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c308e073d15666f3efbcd7ded0171f08/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/623df8082ba9af9858f90f6c73ef71b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/623df8082ba9af9858f90f6c73ef71b1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/44f568a6ff71faba690e87028a51b9fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/44f568a6ff71faba690e87028a51b9fb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/26f09c9de8b6d8d9ce4516ddf9691254/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/26f09c9de8b6d8d9ce4516ddf9691254/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/db5238d1b37ae476575f9ddbef6377e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/db5238d1b37ae476575f9ddbef6377e3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766af240d9313457f742df28ed9cc5be/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/766af240d9313457f742df28ed9cc5be/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0c2ba15099c0fa5ec085c4be19e0fb17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/0c2ba15099c0fa5ec085c4be19e0fb17/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da440cd992d1468d31622796ec4b0b1a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/da440cd992d1468d31622796ec4b0b1a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/04a93830f0e9559e139db2c192ab3ecb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/04a93830f0e9559e139db2c192ab3ecb/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bee90094e93b79757ec6c1d32027b361/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/bee90094e93b79757ec6c1d32027b361/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/90236821f531a4ad3a77f8d9d89ff2fd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/prabhdeepkaur/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/90236821f531a4ad3a77f8d9d89ff2fd/AndroidManifest.xml:20:5-44
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/prabhdeepkaur/Desktop/react-native-accessibility-poc/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
